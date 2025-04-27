@@ -12,3 +12,8 @@ def function(variabele1, variable2, variable3):
   return result
 ```
 
+#### Adding a task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
