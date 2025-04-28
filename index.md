@@ -17,3 +17,4 @@ def function(variabele1, variable2, variable3):
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 
+%k_{s}=\frac{u}{r}
